@@ -17,6 +17,6 @@ A machine learning pipeline for extracting product names, prices, and locations 
 
 ## Setup
 ```bash
-git clone https://github.com/merraa/Ethiopian-Ecommerce-Entity-Extractor.git
+git clone https://github.com/meron-23/Ethiopian-Ecommerce-Entity-Extractor.git
 cd Ethiopian-Ecommerce-Entity-Extractor
 pip install -r requirements.txt
