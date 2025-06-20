@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# VSCode / PyCharm / IDEs
+.vscode/
+.idea/
+
+# Mac / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+*.out
+
+# Data files
+data/raw/
+data/processed/
+outputs/
+*.csv
+*.json
+*.xlsx
+*.zip
+
+# Model checkpoints
+*.ckpt
+*.pt
+*.bin
+*.h5
+*.onnx
+checkpoints/
+runs/
+models/
+
+# OCR temporary files
+*.png
+*.jpg
+*.jpeg
+*.pdf
+ocr_output/
+
+# Hugging Face cache
+~/.cache/huggingface/
+.cache/
+huggingface/
+
+# Environment & package files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Token files / credentials
+token.txt
+*.env
+*.key
+*.pem
+secrets.json
